@@ -1,0 +1,18 @@
+{
+    "name": "ParkSwap",
+    "authors": [
+        {
+            "name": "Neha Sharma",
+            "email": "nehasharmamindiii@gmail.com"
+        }
+    ],
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1",
+        "phpmailer/phpmailer": "^6.1",
+        "firebase/php-jwt": "^5.0",
+        "vlucas/phpdotenv": "^4.1",
+        "aws/aws-sdk-php": "^3.133",
+        "stripe/stripe-php": "^7.25"
+
+    }
+}

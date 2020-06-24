@@ -1,0 +1,697 @@
+     <head>
+       <link href="<?php echo base_url().ADMIN_PLUGIN; ?>toastr/toastr.min.css" rel="stylesheet"> 
+     </head>
+      <!==========SLIDER-SECTION==========>
+  <div class="banner-sec-slider" id="Slider-section">
+    <div class="owl-carousel banner-slider owl-theme">
+        <div class="item slider-item banner-slider-item-1 position-relative">
+          <div class="sequence-caption  text-center">
+                    <!-- Bootstrap -->
+                    <div class="container  screen-text">
+                           <div class="row justify-content-between">
+                  <div class="col-lg-6 d-flex align-self-center">
+                    <div class="left-content">
+                      <div class="content">
+
+                        <p class="subtitle">
+                          Transforming parking experience through digitization. Find parking spots everywhere, anytime.
+                        </p>
+                        <h1 class="title">
+                          We are a community-based app, helping you find parking spots everywhere you are, fast and convenient.
+                        </h1>
+                        <div class="links">
+                          <button type="button" class="btn btn-warning dwnld-btn">Download<i class="fas fa-download"></i></button>
+                          <button type="button" class="btn btn-outline-warning learn-more-btn">Learn More<i class="fas fa-chevron-right"></i></button>
+                          <!-- <a href="#download-app" class="mybtn2 left-link">Download<i class="fas fa-download"></i></a>
+                          <a href="#why-use-this-app" class="mybtn2">Learn More<i class="fas fa-chevron-right"></i></a> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="right-area">
+                      <div class="img">
+                        <img class="img-fluid full-img" src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/iphone_1.png" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                    </div>
+                    <!-- End bootstrap -->
+
+                </div>
+        </div>
+        <div class="item slider-item banner-slider-item-2 position-relative">
+          <div class="sequence-caption  text-center">
+          <!-- Bootstrap -->
+                  <div class="container screen-text">
+                          <div class="row justify-content-between">
+                    <div class="col-lg-6 d-flex align-self-center">
+                      <div class="left-content">
+                        <div class="content">
+                          <p class="subtitle">
+                            Transforming parking experience through digitization. Find parking spots everywhere, anytime.
+                          </p>
+                          <h1 class="title">
+                            Easily navigate to your parking spot.
+                          </h1>
+                          <div class="links">
+                            <button type="button" class="btn btn-warning dwnld-btn">Download<i class="fas fa-download"></i></button>
+                            <button type="button" class="btn btn-outline-warning learn-more-btn">Learn More<i class="fas fa-chevron-right"></i></button>
+                            <!-- <a href="#download-app" class="mybtn2 left-link">Download<i class="fas fa-download"></i></a>
+                            <a href="#why-use-this-app" class="mybtn2">Learn More<i class="fas fa-chevron-right"></i></a> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4">
+                      <div class="right-area">
+                        <div class="img">
+                          <img class="img-fluid full-img" src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/iphone_2.png" alt="">
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                  </div>
+                  <!-- End bootstrap -->
+        </div>
+        </div>
+        <div class="item slider-item banner-slider-item-3 position-relative">
+          <div class="sequence-caption  text-center">
+                  <div class="container screen-text">
+                          <div class="row justify-content-between">
+                    <div class="col-lg-6 d-flex align-self-center">
+                      <div class="left-content">
+                        <div class="content">
+                          <p class="subtitle">
+                            Transforming parking experience through digitization. Find parking spots everywhere, anytime.
+                          </p>
+                          <h1 class="title">
+                            We are the largest and most accurate parking app in the world.
+                          </h1>
+                          <div class="links">
+                            <button type="button" class="btn btn-warning dwnld-btn">Download<i class="fas fa-download"></i></button>
+                            <button type="button" class="btn btn-outline-warning learn-more-btn">Learn More<i class="fas fa-chevron-right"></i></button>
+                            <!-- <a href="#download-app" class="mybtn2 left-link">Download<i class="fas fa-download"></i></a>
+                            <a href="#why-use-this-app" class="mybtn2">Learn More<i class="fas fa-chevron-right"></i></a> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4">
+                      <div class="right-area">
+                        <div class="img">
+                          <img class="img-fluid full-img" src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/iphone_3.png" alt="">
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                  </div>
+                  <!-- End bootstrap -->
+        </div>
+        </div>
+        <div class="item slider-item banner-slider-item-4 position-relative">
+          <div class="sequence-caption  text-center">
+                  <div class="container screen-text">
+                          <div class="row justify-content-between">
+                    <div class="col-lg-6 d-flex align-self-center">
+                      <div class="left-content">
+                        <div class="content">
+                          <p class="subtitle">
+                            Transforming parking experience through digitization. Find parking spots everywhere, anytime.
+                          </p>
+                          <h1 class="title">
+                            ParkSwap lets you send/receive gifts for providing Information on your parking spot
+                          </h1>
+                          <div class="links">
+                            <button type="button" class="btn btn-warning dwnld-btn">Download<i class="fas fa-download"></i></button>
+                            <button type="button" class="btn btn-outline-warning learn-more-btn">Learn More<i class="fas fa-chevron-right"></i></button>
+                            <!-- <a href="#download-app" class="mybtn2 left-link">Download<i class="fas fa-download"></i></a>
+                            <a href="#why-use-this-app" class="mybtn2">Learn More<i class="fas fa-chevron-right"></i></a> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-4">
+                      <div class="right-area">
+                        <div class="img">
+                          <img class="img-fluid full-img" src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/iphone_4.png" alt="">
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                  </div>
+                  <!-- End bootstrap -->
+        </div>
+        </div>
+    
+    <!-- <div class="owl-nav">
+      <button type="button" role="presentation" class="owl-prev">
+        <span aria-label="Previous">‹</span>
+      </button>
+      <button type="button" role="presentation" class="owl-next">
+        <span aria-label="Next">›</span>
+      </button></div> -->
+    </div><div class="clearfix"></div>
+  </div>
+  <!==========/SLIDER-SECTION-END==========>
+<section class="page_title ls corner-title ls invise overflow-visible pt-10 pb-0">
+  <div class="aboutUs" id="aboutUs">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <div class="about-heading">
+            <h1>About</h1>
+            <!-- <ol class="breadcrumb">
+              <li class="breadcrumb-item">
+                <a href="./">Home</a>
+              </li>
+              <li class="breadcrumb-item active">
+                About
+              </li>
+            </ol> -->
+          </div>
+          <div class="divider-15 d-none d-xl-block"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="s-pt-30 s-pt-lg-50 ls about p-0">
+    <div class="divider-60 d-none d-xl-block"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 offset-md-2">
+          <div class="main-content text-center">
+            <h5>
+              "ParkSwap helps millions of people easily find on-street parking spots on their mobile phones. No stress. No hassle. Additionally, ParkSwap offers ''Send and Recieve Gift'' for parking spots. We’re giving people around the world a smarter way to park their cars."
+            </h5>
+            <!-- <i class="rt-icon2-user"></i> -->
+            <!-- <p>
+              Gregory F. Parrino,
+              <span class="link-a">
+                <a href="#">CEO</a>
+              </span>
+            </p> -->
+
+            <div class="divider-10 d-none d-xl-block"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ls about-icon teaser-contact-icon p-5">
+    <div class="divider-10 d-none d-xl-block"></div>
+    <div class="container">
+      <div class="row c-mt-50 c-mt-lg-0">
+        <div class="col-lg-4 text-center call-icon">
+          <div class="border-icon">
+            <div class="teaser-icon">
+              <img src="<?php echo base_url().FRONTEND_ASSETS;?>/img/who_we_img.png" alt="">
+            </div>
+          </div>
+          <h6>
+            Who We Are
+          </h6>
+          <div class="icon-content">
+            <p>
+              We’re on a mission to empower people to find parking spots everywhere, easier! By designing better ways to Look for/Leave Spots and Send/Recieve gifts for parking spots, we make life easier, our cities more accessible, and our world more connected.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4 text-center write-icon">
+          <div class="divider-30 d-none d-xl-block"></div>
+          <div class="border-icon">
+            <div class="teaser-icon">
+              <img src="<?php echo base_url().FRONTEND_ASSETS;?>/img/icon2_about.png" alt="">
+            </div>
+          </div>
+          <div class="icon-content">
+            <h6>
+              What We Do
+            </h6>
+            <p>
+              We completely transform the parking experience. ParkSwap offers a smarter and faster way to park. Not only we help subscribers assist other subscribers to find On-street parking spots easier, but we also give them a chance of receiving a Gift for providing information about their spots when they swap it. The amazing thing is that everything revolves around the users. using ParkSwap, they can help others to find a parking spot and at the same time get help when they need one.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-4 text-center visit-icon">
+          <div class="border-icon">
+            <div class="teaser-icon">
+              <img src="<?php echo base_url().FRONTEND_ASSETS;?>/img/icon3_about.png" alt="">
+            </div>
+          </div>
+          <div class="icon-content">
+            <h6>
+              Why We Do It
+            </h6>
+            <p>
+              On-street parking is considered one of the most essential and critical components of any metropolitan transportation system. Everyone living in a big city knows how stressful it is and how much time/energy-wasting it can be. We want you to feel free to use your car, knowing there will be no parking issues anymore. That's exactly why we created ParkSwap.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="process-area section-padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="section-title text-center">
+            <h6>Working Process</h6>
+            <h2>How we work for client</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="single-process-item">
+            <!-- <div class="left-layer"></div>
+            <div class="right-layer"></div> -->
+            <div class="process-icon">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS?>/img/graph.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            <div class="process-icon-1">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS;?>/img/graph-1.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            </div>
+            </div>
+            <h5>Market Research</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque incidunt dolorum</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="single-process-item">
+            <!-- <div class="left-layer"></div>
+            <div class="right-layer"></div> -->
+            <div class="process-icon">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/team.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            <div class="process-icon-1">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/team-1.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            </div>
+            </div>
+            <h5>Supported Team</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque incidunt dolorum</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="single-process-item">
+            <!-- <div class="left-layer"></div>
+            <div class="right-layer"></div> -->
+            <div class="process-icon">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/innovation.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            <div class="process-icon-1">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/innovation-1.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            </div>
+            </div>
+            <h5>Creative Ideas</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque incidunt dolorum?</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="single-process-item">
+            <!-- <div class="left-layer"></div>
+            <div class="right-layer"></div> -->
+            <div class="process-icon">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/deal.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            <div class="process-icon-1">
+              <!-- <i class="chart-bar"></i> -->
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/deal-1.png" alt="">
+              <!-- <i class="flaticon-bar-chart"></i> -->
+            </div>
+            </div>
+            <h5>First Response</h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque incidunt dolorum</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    <!==========HOW-IT-WORKS-SECTION==========>
+
+    <div class="how-it-works" id="How-it-works">
+          <div class="container">
+            <div class=" text-center">
+             <header class="text-center mb-50 heading-text">
+                <h2 class="with-bg-text has-line-center">
+                   <span class="heading-bg-text"></span>How it works
+                </h2>
+             </header>
+             <div class="how-one-container">
+                <!--how it work Box-->
+                <div class="row">
+                  <div class="how-box-one col-md-4 col-sm-6 col-xs-12">
+                     <div class="inner-box">
+                        <div class="icon-box">
+                           <i class="far fa-eye"></i>
+                           <span>1</span>
+                        </div>
+                        <h3><a href="#">LOOK FOR SPOT</a></h3>
+                        <div class="text">Sometimes arriving at a destination isn’t the end of a journey. In a busy area with limited parking, ‘looking for a spot’ can add considerable time and stress onto the end of a trip.With ParkSwap, Parking is a connected service that makes finding a spot faster and easier, by letting users decide where they’ll have the best chance of finding on-street parking at the moment.
+              </div>
+                     </div>
+                  </div>
+
+                  <!--how it work Box-->
+                  <div class="how-box-one col-md-4 col-sm-6 col-xs-12">
+                     <div class="inner-box">
+                        <div class="icon-box">
+                           <i class="fas fa-sign-out-alt"></i>
+                           <span>2</span>
+                        </div>
+                        <h3><a href="#">LEAVE SPOT</a></h3>
+                        <div class="text">When users press on the ''Leave Spot'' button, all users looking for a spot nearby will get notified on the '‘ParkSwap’' app. The user Leaving the spot has a chance of receiving a gift from the person who wants that spot, just for providing the information on the location of the spot. That’s amazing in '‘ParkSwap'’.</div>
+                     </div>
+                  </div>
+
+                  <!--how it work Box-->
+                  <div class="how-box-one arrow-none col-md-4 col-sm-6 col-xs-12">
+                     <div class="inner-box">
+                        <div class="icon-box">
+                           <i class="fas fa-gift"></i>
+                           <span>3</span>
+                        </div>
+                        <h3><a href="#">RECEIVE AND SEND GIFT</a></h3>
+                        <div class="text">This is the most advanced feature. When a user gets the parking spot from the app, He/she can send a gift to the person that provided the information of the spot. This feature allows users to receive or send a gift to other users, convenient.</div>
+                     </div>
+                  </div>
+                </div>
+
+             </div>
+            </div> 
+          </div>
+    </div>
+    <!==========/HOW-IT-WORKS-SECTION-END==========>
+
+    <!==========FEATURES-SECTION==========>
+    <div class="apps-craft-feature-section section-padding" id="apps-craft-feature">
+    <div class="container">
+      <!-- <div class="apps-craft-section-heading">
+        <h2>Features</h2>
+      </div>  --><!-- .apps-craft-section-heading END -->
+      <header class="text-center mb-50 heading-text">
+                <h2 class="with-bg-text has-line-center">
+                   <span class="heading-bg-text"></span>Features
+                </h2>
+             </header>
+      <div class="row content-margin-top">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="apps-craft-feature-img text-center" itemscope="" itemtype="http://schema.org/ImageGallery">
+            <figure itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/splash_img.png" alt="Apps Craft Feature Image">
+
+              <span class="apps-craft-feature-ico icon-1x skrollable skrollable-before" data-bottom="transform:translateX(-103px)" data-top="transform:translateX(-63px);" style="transform: translateX(-103px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/Icon-1.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-2x skrollable skrollable-before" data-bottom="transform:translateX(-171px)" data-top="transform:translateX(-131px);" style="transform: translateX(-171px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/ICON-2.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-3x skrollable skrollable-between" data-bottom="transform:translateX(-153px)" data-top="transform:translateX(-113px);" style="transform: translateX(-151.822px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/12.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-4x skrollable skrollable-between" data-bottom="transform:translateX(-176px)" data-top="transform:translateX(-136px);" style="transform: translateX(-170.545px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/money.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-5x skrollable skrollable-between" data-bottom="transform:translateX(-97px)" data-top="transform:translateX(-55px);" style="transform: translateX(-86.554px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/ICON-7.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-6x skrollable skrollable-between" data-bottom="transform:translateY(-130px)" data-top="transform:translateY(-90px);" style="transform: translateY(-122.716px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/15.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-7x skrollable skrollable-between" data-bottom="transform:translateY(-134px)" data-top="transform:translateY(-94px);" style="transform: translateY(-132.828px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/pin_1.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-8x skrollable skrollable-between" data-bottom="transform:translateY(-160px)" data-top="transform:translateY(-120px);" style="transform: translateY(-155.511px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/ICON-5.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-9x skrollable skrollable-before" data-bottom="transform:translateX(-110px)" data-top="transform:translateX(-70px);" style="transform: translateX(-110px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/car_2.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-10x skrollable skrollable-between" data-bottom="transform:translateY(26px)" data-top="transform:translateY(26px);" style="transform: translateY(26px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/13.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-11x skrollable skrollable-between" data-bottom="transform:translateX(74px)" data-top="transform:translateX(34px);" style="transform: translateX(70.5672px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/car_1.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-12x skrollable skrollable-before" data-bottom="transform:translateX(160px)" data-top="transform:translateX(120px);" style="transform: translateX(160px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/pin_2.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-13x skrollable skrollable-between" data-bottom="transform:translateX(150px)" data-top="transform:translateX(110px);" style="transform: translateX(142px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/ICON-6.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-14x skrollable skrollable-between" data-bottom="transform:translateX(80px)" data-top="transform:translateX(40px);" style="transform: translateX(68.6159px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/15.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-15x skrollable skrollable-between" data-bottom="transform:translateX(120px)" data-top="transform:translateX(80px);" style="transform: translateX(115.116px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/13.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+
+              <span class="apps-craft-feature-ico icon-16x skrollable skrollable-between" data-bottom="transform:translateX(-140px)" data-top="transform:translateX(-100px);" style="transform: translateX(-129.25px);">
+                <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/18.png" alt="Small Icon">
+              </span> <!-- .apps-craft-feature-ico END -->
+            </figure>
+          </div> <!-- .apps-craft-feature-img END -->
+        </div>
+
+        <div class=" col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <div class="apps-craft-feature-container clear-both">
+            <div class="apps-craft-single-feature">
+              <div class="apps-craft-feature-content wow fadeIn text-color" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeIn;">
+                <!-- <i class="zmdi zmdi-cutlery zmdi-hc-fw"></i> -->
+                <i class="fas fa-sign-in-alt"></i>
+                <h3>Register</h3>
+                <p>This is the first screen that users see on the ParkSwap app. Users need to sign up with their verified social network or email account.</p>
+              </div> <!-- .apps-craft-feature-content END -->
+            </div> <!-- .apps-craft-single-feature END -->
+            <div class="apps-craft-single-feature">
+              <div class="apps-craft-feature-content wow fadeIn text-color subscrptn-sec" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeIn;">
+                <!-- <i class="zmdi zmdi-graphic-eq zmdi-hc-fw"></i> -->
+                <i class="fas fa-dollar-sign"></i>
+                <h3>Subscriptions</h3>
+                <p>Users need to subscribe to use ParkSwap with a monthly plan of just $9.99 or $109.99 a year.</p>
+              </div> <!-- .apps-craft-feature-content END -->
+            </div> <!-- .apps-craft-single-feature END -->
+            <div class="apps-craft-single-feature">
+              <div class="apps-craft-feature-content wow fadeIn text-color leavespot" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeIn;">
+                <!-- <i class="zmdi zmdi-wifi-alt zmdi-hc-fw"></i> -->
+                <i class="fas fa-map-marker-alt"></i>
+                <h3>Find or Leave a Spot </h3>
+                <p>Users can easily press a button to Find or Leave a Parking spot.</p>
+              </div> <!-- .apps-craft-feature-content END -->
+            </div> <!-- .apps-craft-single-feature END -->
+            <div class="apps-craft-single-feature send-rcve">
+              <div class="apps-craft-feature-content wow fadeIn text-color" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeIn;">
+                <!-- <i class="zmdi zmdi-wallpaper zmdi-hc-fw"></i> -->
+                <i class="fas fa-retweet"></i>
+                <h3>Send or Receive </h3>
+                <p>This is the most advanced feature in the app when users swap spot, He/she can send a gift to the user that provided the spot.</p>
+              </div> <!-- .apps-craft-feature-content END -->
+            </div> <!-- .apps-craft-single-feature END -->
+          </div> <!-- .apps-craft-feature-container END -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!==========/FEATURES-SECTION-END==========>
+
+  <!==========/SCREENSHOT-SECTION==========>
+  <div class="screenshot-section" id="screenshots">
+    <div class="container">
+      <header class="text-center mb-50 heading-text header-para">
+                <h2 class="with-bg-text has-line-center">
+                   <span class="heading-bg-text"></span>Screenshots
+                </h2>
+                <p>
+                Have a glimpse of our new and user-friendly interface.
+              </p>
+            </header>
+         
+      <div class="slider-inner position-relative">
+        <div class="background-screen"></div>
+        <div class="owl-carousel screenshot-slider-section owl-theme">
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/07_map.png">
+            </div>
+          <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/08_map_lookingParking.png">
+            </div>
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/09_map_leavingParking.png">
+            </div>
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/11_gratuity.png">
+            </div>
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/22_notification.png">
+            </div>
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/26_inviteFriends.png">
+            </div>
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/32_subscription.png">
+            </div>
+            <div class="item screen">
+              <img src="<?php echo base_url().FRONTEND_ASSETS; ?>/img/31_popUp.png">
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    <!==========/SCREENSHOT-SECTION-END==========>
+
+    <!==========/DOWNLOAD-APP-SECTION==========>
+    <div id="numbers" class="vb unscrolled shown">
+      <div class="container">
+        <header class="text-center mb-50 heading-text shown-heading ml-0">
+              <h2 class="with-bg-text has-line-center">
+                 <span class="heading-bg-text"></span>Ready to Get Started
+              </h2>
+              <p>Join us by downloading our app!</p>
+          </header>
+
+          <ul class="download-a a">
+              <li class="as"><a rel="external" target="_blank" href="#"></a></li>
+              <li class="gp"><a rel="external" target="_blank" href="#"></a></li>
+          </ul>
+        </div>
+    </div>
+    <!==========/DOWNLOAD-APP-SECTION-END==========>
+
+    <!==========/NEWSLETTER-SECTION==========>
+    <div class="newsletter-section text-center">
+        <div class="container">
+            <div class="newsletter-content">
+               <img src="<?php echo base_url().FRONTEND_ASSETS; ?>img/Subscribe_img.png">
+                <header class="text-center mb-50 heading-text header-para">
+                    <h2 class="with-bg-text has-line-center">
+                       <span class="heading-bg-text"></span>Subscribe to Newsletter
+                    </h2>
+                    <p>
+                        Subscribe to our email newsletter today to receive updates on the latest news.
+                    </p>
+                </header>
+                <form  id="newsletter" class="form-inline  align-items-start mt-4 form-1" action="<?php echo site_url(); ?>newslatter" method= "post" >
+                  <div class="form-group mx-sm-3 mb-2 form-2 ml-0">
+                    <input type="email" class="form-control newsletter-form" id="inputPassword2" name="email" placeholder="Enter your email here...">
+                  <!--   
+                  <button id="submit" class="btn btn-primary mb-2 newsletter-btn" >Subscribe</button> -->
+                  </div>
+                 
+                  <button id="submit" class="btn btn-primary mb-2 newsletter-btn" >Subscribe</button>
+
+              
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+    <script src="<?php echo base_url().ADMIN_PLUGIN; ?>jquery-validation/jquery.validate.min.js"></script>
+    <script type="text/javascript"></script>
+    <script src="<?php echo base_url().FRONTEND_ASSETS; ?>plugins/toastr/toastr.min.js" type="text/javascript"></script>
+      
+      <script type="text/javascript">
+       $("#newsletter").validate({
+      ignore: [],
+      rules:{
+          
+          email:{
+              required: true,
+              email: true,
+              maxlength: 100
+          }
+        
+          
+      },
+
+    });
+
+  var login_admin = $("#newsletter");
+  var proceed_err  = 'Please fill the fields properly';
+      $('body').on('click','#submit', function(){
+      document.getElementById("submit").disabled = true;
+
+
+      toastr.remove();
+      event.preventDefault();
+      if(login_admin.valid()===false){
+      document.getElementById("submit").disabled = false;
+
+        toastr.error(proceed_err);
+        return false;
+    }
+        var _that = $(this), 
+        form = _that.closest('form'),      
+        formData = new FormData(form[0]),
+        f_action = form.attr('action');
+        
+        $.ajax({
+            type: "POST",
+            url: f_action,
+            data: formData, //only input
+            processData: false,
+            contentType: false,
+            dataType: "JSON", 
+            beforeSend: function () { 
+            },
+            success: function (data, textStatus, jqXHR){ 
+
+                if (data.status == 1){ 
+                    $('#tl_admin_loader').show();
+                    toastr.success(data.msg);
+                    
+                    //document.getElementById("submit").disabled = false;
+
+
+                    window.setTimeout(function (){
+                    window.location.href =data.url;
+                    }, 1000);
+                }
+                else {
+                   document.getElementById("submit").disabled = false;
+                    toastr.error(data.msg);
+               }  
+            },
+        });
+                
+      });
+   </script>
+   <style type="text/css">
+     #inputPassword2-error{
+      color: red;
+
+     }
+    
+   </style>

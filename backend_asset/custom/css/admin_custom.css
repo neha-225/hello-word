@@ -1,0 +1,359 @@
+.tl_loader {
+  background-color: rgba(255,255,255,0.5);
+  background-image: url("../images/tl_loader.gif");
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3000;
+}
+.profile_content .control-label {
+  text-align: left;
+}
+.profile_content .file_btn span.glyphicon {
+  color: #0f90d2;
+  cursor: pointer;
+  font-size: 25px;
+  height: 100%;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.profile_content .fa.fa-camera {
+  left: 26%;
+  position: absolute;
+  top: 40%;
+  display: none;
+  z-index: 11111;
+}
+.file_btn:hover  .fa.fa-camera{display: block;}
+.file_btn {
+    border: 1px solid #dddddd;
+    border-radius: 2px;
+    display: inline-block;
+    height: 100px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+    width: 111px;
+}
+.file_btn:not(:last-child) {
+  margin-right: 18px;
+}
+.file_btn input[type="file"] {
+  cursor: pointer;
+  display: inline-block;
+  height: 100%;
+  opacity: 0;
+  width: 100%;
+}
+.file_btn span.glyphicon {
+  cursor: pointer;
+  font-size: 25px;
+  left: 42px;
+  pointer-events: none;
+  position: absolute;
+  top: 35px;
+  color: #0f90d2;
+}
+.file_btn img {
+  cursor: pointer;
+  display: inline-block;
+  height: 100%;
+  padding: 1px;
+  width: 100%;
+}
+.file_btn span.fa-close {
+  background-color: #ff0000;
+  border-radius: 50%;
+  color: #ffffff;
+  display: none;
+  font-size: 14px;
+  height: 18px;
+  left: 0;
+  padding-left: 3px;
+  padding-top: 2px;
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+  vertical-align: middle;
+  width: 18px;
+}
+
+.file_btn:hover > span.fa-close {
+    display: block;
+}
+.file_btn input[type="file"] {
+  cursor: pointer;
+  display: inline-block;
+  height: 100%;
+  opacity: 0;
+  width: 100%;
+}
+.upload_img {
+  padding-left: 40px;
+}
+.change_btn{padding:5px 10px 5px 10px; background-color:#0f90d2; color:#FFF; text-transform:capitalize;}
+.change_icon{ font-size:18px; color:#F00;}.fileinput-preview1{background-color:#e5e5e5; border-radius:5px; margin-bottom:5px;}
+.tooltip_box h3{color:#F00;}
+.active_bg{background-color:#ffffaa;}
+
+.file_btn {
+    border: 1px solid #dddddd;
+    border-radius: 2px;
+    display: inline-block;
+    height: 100px;
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+    width: 111px;
+}
+.file_btn:not(:last-child) {
+  margin-right: 18px;
+}
+.file_btn input[type="file"] {
+  cursor: pointer;
+  display: inline-block;
+  height: 100%;
+  opacity: 0;
+  width: 100%;
+}
+.file_btn span.glyphicon {
+  cursor: pointer;
+  font-size: 25px;
+  left: 42px;
+  pointer-events: none;
+  position: absolute;
+  top: 35px;
+  color: #0f90d2;
+}
+.file_btn img {
+  cursor: pointer;
+  display: inline-block;
+  height: 100%;
+  padding: 1px;
+  width: 100%;
+}
+.file_btn span.fa-close {
+  background-color: #ff0000;
+  border-radius: 50%;
+  color: #ffffff;
+  display: none;
+  font-size: 14px;
+  height: 18px;
+  left: 0;
+  padding-left: 3px;
+  padding-top: 2px;
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+  vertical-align: middle;
+  width: 18px;
+}
+.file_btn:hover > span.fa-close {
+    display: block;
+}
+.profile-element{
+    text-align: center;
+}
+a.table_action{
+    /*font-size:12px;*/
+    margin: 2px;
+}
+
+
+.gallery ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}   
+.gallery ul li{
+    display: inline-block;
+    margin: 10px 7px;
+    padding: 7px;
+    border: solid 1px #eeeeee;
+    box-shadow: 0px 3px 20px 0px rgba(165, 165, 165, 0.55);
+   -moz-box-shadow: 0px 3px 20px 0px rgba(165, 165, 165, 0.55);
+   -webkit-box-shadow: 0px 3px 20px 0px rgba(165, 165, 165, 0.55);
+   -o-box-shadow: 0px 3px 20px 0px rgba(165, 165, 165, 0.55);
+   -ms-box-shadow: 0px 3px 20px 0px rgba(165, 165, 165, 0.55);
+}
+.imgBlock a span {
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 16px;
+    color: #333;
+    font-weight: 400;
+}
+.imgBlock > span {
+    text-align: center;
+    display: block;
+    margin-top: 8px;
+}
+.imgBlock > span a {
+    margin: 0 3px;
+}
+.pd-15 {
+    padding: 20px;
+}
+textarea.con
+{
+  resize:none;
+  width: 450px;
+  height: 150px;
+
+}
+@media screen and (max-width:480px){
+    textarea.con
+  {
+    resize:none;
+    width: 300px;
+    height: 150px;
+
+  }
+}
+.cont-head{
+      padding: 20px 0 0 0;
+      font-weight: 900;
+
+}
+.test{
+        padding: 18px;
+    }
+
+div#post_list_filter {
+    float: left !important;
+}
+.noMargin .form-group {
+    margin-top: 10px;
+}
+
+.remove_img1{
+    border-radius: 50%;
+    font-size: 14px;
+    height: 18px;
+    left: 17px;
+    padding-left: 3px;
+    padding-top: 2px;
+    position: absolute;
+    top: 3px;
+    cursor: pointer;
+    vertical-align: middle;
+    width: 18px;
+    z-index: 101;
+    background: red;
+    color: #fff;
+}
+
+.imUpload:hover .remove_img1 {
+  display: none;
+}
+.profile_content.edit_img {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.bgColorBD{
+  background: #f0d560;
+  color: #fff;
+}
+.bookingDetailsDiv .bus-num{
+  font-size: 18px;
+  text-align: center;
+}
+.bookingDetailsDiv .bus-num .crd{
+  font-size: 12px;
+  text-align: center;
+}
+.bookingDetailsDiv .bus-num .ion {
+  color: #155fad;
+  font-size: 23px;
+}
+.bookingDetailsDiv .stts{
+  margin-top: 10px;
+}
+.bookingDetailsDiv .stts .cc{ 
+  color: #155fad;
+}
+.bookingDetailsDiv .src-des{
+ 
+}
+.bookingDetailsDiv .src-des .location {
+  display: block;
+  margin-left: 17px;
+}
+.bookingDetailsDiv .src-des .ion{
+  font-size: 23px;
+}
+.bookingDetailsDiv .src-des .l1{
+  color: red;
+}
+.bookingDetailsDiv .src-des .l2{
+  color: green;
+}
+.bookingDetailsDiv .tot-far {
+  font-size: 14px;
+  font-weight: 700;
+}
+.bookingDetailsDiv .tot-far .tt{
+  color: #155fad; 
+}
+.totalFareCss {
+    margin-top: 23px;
+}
+.totalFareCss #clearDate {
+    margin: -5px -30px 0px 10px;
+    background: #155fad;
+    color: #fff;
+    padding: 7px 10px;
+    border-radius: 0;
+}
+ #datepicker{
+   padding-left: 10px;
+}
+.titleCard{
+  font-weight: 500;
+  color: #000;
+}.userInfo p {
+margin-bottom: 0;
+}
+.usClass p {
+/*color: #dd4b39;*/
+margin: 0 0 10px;
+}
+.userBlk {
+display: flex;
+align-items: flex-start;
+}
+.img-circle {
+border-radius: 50%;
+}
+.userBlk {
+display: flex;
+align-items: flex-start;
+}
+.userInfo {
+margin-left: 10px;
+}
+.userInfo p {
+margin-bottom: 0;
+}.usClass{
+}
+.pull-right {
+margin-right: 20px;
+}
+.list-group-unbordered{
+  margin-left: 20Px;
+}
+/*color: #dd4b39;*/
+
+.select2-selection__clear{
+      display: none;
+    }
